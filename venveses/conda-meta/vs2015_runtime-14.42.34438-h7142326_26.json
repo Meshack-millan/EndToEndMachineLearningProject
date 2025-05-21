@@ -1,0 +1,31 @@
+{
+  "build": "h7142326_26",
+  "build_number": 26,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.42.34438"
+  ],
+  "extracted_package_dir": "c:\\ProgramData\\anaconda3\\pkgs\\vs2015_runtime-14.42.34438-h7142326_26",
+  "files": [],
+  "fn": "vs2015_runtime-14.42.34438-h7142326_26.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "c:\\ProgramData\\anaconda3\\pkgs\\vs2015_runtime-14.42.34438-h7142326_26",
+    "type": 1
+  },
+  "md5": "3357e4383dbce31eed332008ede242ab",
+  "name": "vs2015_runtime",
+  "package_tarball_full_path": "c:\\ProgramData\\anaconda3\\pkgs\\vs2015_runtime-14.42.34438-h7142326_26.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "432f2937206f1ad4a77e39f84fabc1ce7d2472b669836fb72bd2bfd19a2defc9",
+  "size": 17873,
+  "subdir": "win-64",
+  "timestamp": 1743195097000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vs2015_runtime-14.42.34438-h7142326_26.conda",
+  "version": "14.42.34438"
+}
